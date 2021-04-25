@@ -1,0 +1,13 @@
+{
+  "name": "drawer",
+  "version": "1.0.0",
+  "description": "Draw box",
+  "author": "Tijl Ivens",
+  "scripts": {
+    "serve": "live-server ./public --port=3500",
+    "start": "yarn serve"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
